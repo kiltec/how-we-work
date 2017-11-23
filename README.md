@@ -11,7 +11,7 @@ This repository is documentation about how we do things in the kalispera organis
 * We [license with MIT](https://opensource.org/licenses/MIT)
 * We [format our code prettier](https://prettier.io/)
 * We [let greenkeeper remind us about dependencies](https://greenkeeper.io/)
-* We [treat each other with basic human dignity](https://www.contributor-covenant.org/)
+* We [treat us and other nicely](https://www.contributor-covenant.org/)
 * We [believe in the idea of love and peace](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/en.md)
 
 # Why
