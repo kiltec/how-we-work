@@ -13,3 +13,8 @@ This repository is documentation about how we do things in the kalispera organis
 * We [let greenkeeper remind us about dependencies](https://greenkeeper.io/)
 * We [treat each other with basic human dignity](https://www.contributor-covenant.org/)
 * We [believe in the idea of love and peace](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/en.md)
+
+# Why
+
+We like to keep things transparent. Also we like to point at things so when someone asks us, how we work this is the place we point to. If you have questions about why or even noticed something we
+could do better, please don't [hasitate do let us know](https://github.com/kalispera/how-we-work/issues/new)
