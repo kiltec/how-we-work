@@ -12,7 +12,7 @@ This repository is documentation about how we do things in the kalispera organis
 * We [format our code prettier](https://prettier.io/)
 * We [let greenkeeper remind us about dependencies](https://greenkeeper.io/)
 * We [treat us and other nicely](https://www.contributor-covenant.org/)
-* We [believe in the idea of love and peace](https://github.com/love-and-peace/love-and-peace/blob/master/versions/base/v1.0/en.md)
+* We [believe in love and peace](https://github.com/love-and-peace/love-and-peace/blob/master/versions/karma/v1.0-karma1/en.md)
 
 # Why
 
